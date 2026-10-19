@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1554-issue-089-add-streak-reward-eligibility",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1554-issue-089-add-streak-reward-eligibility": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1554-issue-089-add-streak-reward-eligibility",
+    "origin"
+  ]
+}
